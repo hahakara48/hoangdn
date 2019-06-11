@@ -6,7 +6,7 @@
  <?php echo '<p>Work on Database</p>'; 
  
  ?> 
-     <a href="ConnectToDB.php" target="_blank" >Connect database</a>
+     <a href="ConnectToDB.php" target="_blank" >Connect to the database</a>
      <br/>
      <a href="InsertData.php" target="_blank" >Insert data to the database</a>
      <br/>
